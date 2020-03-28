@@ -1,0 +1,33 @@
+
+html {
+  height: 100%;
+}
+
+#pageBody {
+
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+
+}
+
+
+#myButton {
+
+  height: 30px;
+  width: 100px;
+
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+
+  margin-left: -50px;
+
+  background: none;
+
+  border: 3px solid back;
+  color: black;
+  border-radius: 10px;
+
+}
